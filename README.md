@@ -1,8 +1,20 @@
 # Sticker-Heo
 
+![](/img/banner.png)
+
 张洪Heo创作的通用基础表情
 
-> 本表情仅免授权个人博客使用，禁止商业使用，请须知。
+> 本表情仅免授权个人非盈利性质博客使用，禁止商业使用，请须知。
+
+## 表情预览
+
+![](/img/all-aticker.png)
+
+## Demo
+
+我在我的个人博客中使用的是该表情。
+
+[张洪Heo](https://blog.zhheo.com/)
 
 ## 快速上手
 
@@ -106,3 +118,10 @@ Twikoo可以在json文件中添加：
     "heo_大笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@0.2/Sticker-100/大笑.png"
   }
 ```
+
+## 项目进度
+
+- [x] 适配twikoo
+- [x] 适配Valine/Waline
+- [ ] 发布表情
+- [ ] 发布源文件开放创作
