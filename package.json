@@ -1,0 +1,19 @@
+{
+  "name": "sticker-heo",
+  "version": "0.3.0",
+  "description": "Heo的基础表情系列",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhheo/Sticker-Heo.git"
+  },
+  "author": "zhheo",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zhheo/Sticker-Heo/issues"
+  },
+  "homepage": "https://github.com/zhheo/Sticker-Heo#readme"
+}
