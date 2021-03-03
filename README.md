@@ -81,7 +81,13 @@ Twikoo可以在json文件中添加：
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头草.png\">", "text": "heo_狗头草" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/头秃.png\">", "text": "heo_头秃" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头胖次.png\">", "text": "heo_狗头胖次" },
-        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/我看好你.png\">", "text": "heo_我看好你" }
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/我看好你.png\">", "text": "heo_我看好你" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好的.png\">", "text": "heo_好的" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好奇.png\">", "text": "heo_好奇" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/偷偷看.png\">", "text": "heo_偷偷看" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/危险.png\">", "text": "heo_危险" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/小丑.png\">", "text": "heo_小丑" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/引起不适.png\">", "text": "heo_引起不适" }
     ]
   },
 ```
@@ -142,7 +148,13 @@ Twikoo可以在json文件中添加：
     "heo_狗头草": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头草.png",
     "heo_头秃": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/头秃.png",
     "heo_狗头胖次": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头胖次.png",
-    "heo_我看好你": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/我看好你.png"
+    "heo_我看好你": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/我看好你.png",
+    "heo_好的": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好的.png",
+    "heo_好奇": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好奇.png",
+    "heo_偷偷看": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/偷偷看.png",
+    "heo_危险": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/危险.png",
+    "heo_小丑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/小丑.png",
+    "heo_引起不适": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/引起不适.png"
   }
 ```
 
