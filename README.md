@@ -169,10 +169,3 @@ Twikoo可以在json文件中添加：
     "heo-应援": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/应援.png"
   }
 ```
-
-## 项目进度
-
-- [x] 适配twikoo
-- [x] 适配Valine/Waline
-- [ ] 发布表情
-- [ ] 发布源文件开放创作
