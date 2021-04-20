@@ -96,7 +96,6 @@ Twikoo可以在json文件中添加：
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/应援.png\">", "text": "heo-应援" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫喜欢.png\">", "text": "heo-熊猫喜欢" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/疼痛.png\">", "text": "heo-疼痛" },
-        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫.png\">", "text": "heo-熊猫" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/勉强笑.png\">", "text": "heo-勉强笑" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/看穿一切.png\">", "text": "heo-看穿一切" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽狂汗.png\">", "text": "heo-滑稽狂汗" },
