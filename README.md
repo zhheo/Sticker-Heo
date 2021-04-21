@@ -13,11 +13,16 @@
 
 ![](/img/all-aticker.png)
 
-## Demo
+## 使用该表情的站点
 
-我在我的个人博客中使用的是该表情。
+如果你也使用了，欢迎提交pr。
 
 [张洪Heo](https://blog.zhheo.com/)
+[mrju](https://mrju.cn/)
+[OYの博客](https://oy6090.top/)
+[小康博客](https://www.antmoe.com/)
+[林羽凡](https://www.linyufan.com/)
+[2BROEAR](https://blog.2broear.com/)
 
 ## 快速上手
 
