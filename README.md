@@ -7,7 +7,7 @@
 [![](https://img.shields.io/npm/v/sticker-heo)](https://www.npmjs.com/package/sticker-heo)
 [![](https://img.shields.io/github/v/release/zhheo/sticker-heo)](https://github.com/zhheo/Sticker-Heo/releases)
 
-> 本表情仅免授权个人非盈利性质博客使用，禁止商业使用，请须知。
+> 该表情仅非商业博客免授权使用，其余方式需授权书授权，请须知。
 
 ## 表情预览
 
