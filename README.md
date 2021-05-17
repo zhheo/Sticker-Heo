@@ -104,7 +104,13 @@ Twikoo可以在json文件中添加：
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/勉强笑.png\">", "text": "heo-勉强笑" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/看穿一切.png\">", "text": "heo-看穿一切" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽狂汗.png\">", "text": "heo-滑稽狂汗" },
-        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/不好意思.png\">", "text": "heo-不好意思" }
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/不好意思.png\">", "text": "heo-不好意思" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗.png\">", "text": "heo-菜狗" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/难以置信.png\">", "text": "heo-难以置信" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽被子.png\">", "text": "heo-滑稽被子" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/月饼.png\">", "text": "heo-月饼" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png\">", "text": "heo-倚墙笑" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png\">", "text": "heo-出家人" }
     ]
   },
 ```
@@ -183,6 +189,12 @@ Twikoo可以在json文件中添加：
     "heo-勉强笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫唱歌.png",
     "heo-看穿一切": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/看穿一切.png",
     "heo-滑稽狂汗": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽狂汗.png",
-    "heo-不好意思": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/不好意思.png"
+    "heo-不好意思": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/不好意思.png",
+    "heo-菜狗": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗.png",
+    "heo-难以置信": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/难以置信.png",
+    "heo-月饼": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/月饼.png",
+    "heo-滑稽被子": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽被子.png",
+    "heo-倚墙笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png",
+    "heo-出家人": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png"
   }
 ```
