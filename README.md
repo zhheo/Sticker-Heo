@@ -35,6 +35,7 @@ Twikoo可以在json文件中添加：
     "type": "image",
     "container": [
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/再见.png\">", "text": "heo-再见" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呲牙笑.png\">", "text": "heo-呲牙笑" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/微笑.png\">", "text": "heo-微笑" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/亲亲.png\">", "text": "heo-亲亲" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/愤怒.png\">", "text": "heo-愤怒" },
@@ -120,6 +121,7 @@ Twikoo可以在json文件中添加：
 ```json
 {
     "heo-再见": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/再见.png",
+    "heo-呲牙笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呲牙笑.png",
     "heo-微笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/微笑.png",
     "heo-亲亲": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/亲亲.png",
     "heo-愤怒": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/愤怒.png",
