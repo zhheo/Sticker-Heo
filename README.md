@@ -113,10 +113,10 @@ Twikoo可以在json文件中添加：
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png\">", "text": "heo-倚墙笑" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png\">", "text": "heo-出家人" }
     ]
-  },
+    },
 ```
 
-### Valine/Waline
+### Valine
 
 ```json
 {
@@ -198,5 +198,13 @@ Twikoo可以在json文件中添加：
     "heo-滑稽被子": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽被子.png",
     "heo-倚墙笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png",
     "heo-出家人": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png"
-  }
+    }
+```
+
+# Waline
+在emoji选项中添加配置项：
+```js
+ emoji: [
+    'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@0.8.1/Sticker-100',
+]
 ```
