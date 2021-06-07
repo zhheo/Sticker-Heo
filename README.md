@@ -201,7 +201,7 @@ Twikoo可以在json文件中添加：
     }
 ```
 
-# Waline
+### Waline
 在emoji选项中添加配置项：
 ```js
  emoji: [
