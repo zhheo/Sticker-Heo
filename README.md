@@ -23,6 +23,7 @@
 [小康博客](https://www.antmoe.com/)
 [林羽凡](https://www.linyufan.com/)
 [2BROEAR](https://blog.2broear.com/)
+[FanHeart](https://hesifan.top/)
 
 ## 快速上手
 
@@ -111,7 +112,13 @@ Twikoo可以在json文件中添加：
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽被子.png\">", "text": "heo-滑稽被子" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/月饼.png\">", "text": "heo-月饼" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png\">", "text": "heo-倚墙笑" },
-        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png\">", "text": "heo-出家人" }
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png\">", "text": "heo-出家人" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗花.png\">", "text": "heo-菜狗花" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/黑线.png\">", "text": "heo-黑线" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呦吼.png\">", "text": "heo-呦吼" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/扶额.png\">", "text": "heo-扶额" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打咩.png\">", "text": "heo-打咩" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/有没有搞错.png\">", "text": "heo-有没有搞错" }
     ]
     },
 ```
@@ -187,8 +194,8 @@ Twikoo可以在json文件中添加：
     "heo-哈士奇失去意识": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哈士奇失去意识.png",
     "heo-应援": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/应援.png",
     "heo-熊猫喜欢": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫喜欢.png",
-    "heo-疼痛": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/勉强笑.png",
-    "heo-勉强笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫唱歌.png",
+    "heo-疼痛": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/疼痛.png",
+    "heo-勉强笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/勉强笑.png",
     "heo-看穿一切": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/看穿一切.png",
     "heo-滑稽狂汗": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽狂汗.png",
     "heo-不好意思": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/不好意思.png",
@@ -197,7 +204,13 @@ Twikoo可以在json文件中添加：
     "heo-月饼": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/月饼.png",
     "heo-滑稽被子": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽被子.png",
     "heo-倚墙笑": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png",
-    "heo-出家人": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png"
+    "heo-出家人": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png",
+    "heo-菜狗花": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗花.png",
+    "heo-黑线": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/黑线.png",
+    "heo-呦吼": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呦吼.png",
+    "heo-有没有搞错": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/有没有搞错.png",
+    "heo-打咩": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打咩.png",
+    "heo-扶额": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/扶额.png",
     }
 ```
 
