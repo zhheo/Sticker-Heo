@@ -17,7 +17,7 @@ General basic facial stickers suitable for most websites and applications.
 
 ## Preview
 
-![](/img/all-aticker.png)
+![](/img/all-aticker-en.png)
 
 ## Example
 
@@ -35,7 +35,7 @@ If you also use it, you are welcome to submit pr.
 
 ### Twikoo
 
-Twikoo可以在json文件中添加：
+Twikoo can be added to the json file：
 
 ```json
 "Heo": {

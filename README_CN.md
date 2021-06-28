@@ -11,7 +11,7 @@
 
 ## 表情预览
 
-![](/img/all-aticker.png)
+![](/img/all-aticker-cn.png)
 
 ## 使用该表情的站点
 
