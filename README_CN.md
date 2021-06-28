@@ -1,27 +1,21 @@
-<div align="right">
-  Language:
-  🇺🇸
-  <a title="Chinese" href="/README_CN.md">🇨🇳</a>
-</div>
-
 # Sticker-Heo
 
 ![](/img/banner.png)
 
-General basic facial stickers suitable for most websites and applications.
+适合大多数网站与应用的通用基础表情
 
 [![](https://img.shields.io/npm/v/sticker-heo)](https://www.npmjs.com/package/sticker-heo)
 [![](https://img.shields.io/github/v/release/zhheo/sticker-heo)](https://github.com/zhheo/Sticker-Heo/releases)
 
-> This expression is not authorized to be used by non-business bloggers only. Authorization is required for the rest of the way, please note.
+> 该表情仅非商业博客免授权使用，其余方式需授权书授权，请须知。
 
-## Preview
+## 表情预览
 
 ![](/img/all-aticker.png)
 
-## Example
+## 使用该表情的站点
 
-If you also use it, you are welcome to submit pr.
+如果你也使用了，欢迎提交pr。
 
 [张洪Heo](https://blog.zhheo.com/)
 [mrju](https://mrju.cn/)
@@ -31,7 +25,7 @@ If you also use it, you are welcome to submit pr.
 [2BROEAR](https://blog.2broear.com/)
 [FanHeart](https://hesifan.top/)
 
-## Installation
+## 快速上手
 
 ### Twikoo
 
@@ -221,7 +215,7 @@ Twikoo可以在json文件中添加：
 ```
 
 ### Waline
-Add a configuration item in the emoji option：
+在emoji选项中添加配置项：
 ```js
  emoji: [
     'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@0.8.1/Sticker-100',
