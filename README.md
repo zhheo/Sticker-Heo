@@ -30,6 +30,7 @@ If you also use it, you are welcome to submit pr.
 [林羽凡](https://www.linyufan.com/)
 [2BROEAR](https://blog.2broear.com/)
 [FanHeart](https://hesifan.top/)
+[泰戈尔](https://www.iftiger.com/)
 
 ## Installation
 
