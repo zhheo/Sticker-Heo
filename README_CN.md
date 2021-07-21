@@ -119,7 +119,13 @@ Twikoo可以在json文件中添加：
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呦吼.png\">", "text": "heo-呦吼" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/扶额.png\">", "text": "heo-扶额" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打咩.png\">", "text": "heo-打咩" },
-        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/有没有搞错.png\">", "text": "heo-有没有搞错" }
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/有没有搞错.png\">", "text": "heo-有没有搞错" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/深思.png\">", "text": "heo-深思" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/3d眼镜.png\">", "text": "heo-3d眼镜" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/电话.png\">", "text": "heo-电话" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/托腮.png\">", "text": "heo-托腮" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/裂开.png\">", "text": "heo-裂开" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽柠檬.png\">", "text": "heo-滑稽柠檬" }
     ]
     },
 ```
@@ -212,6 +218,12 @@ Twikoo可以在json文件中添加：
     "heo-有没有搞错": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/有没有搞错.png",
     "heo-打咩": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打咩.png",
     "heo-扶额": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/扶额.png",
+    "heo-深思": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/深思.png",
+    "heo-3d眼镜": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/3d眼镜.png",
+    "heo-电话": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/电话.png",
+    "heo-托腮": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/托腮.png",
+    "heo-裂开": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/裂开.png",
+    "heo-滑稽柠檬": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽柠檬.png",
     }
 ```
 
