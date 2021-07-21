@@ -231,6 +231,6 @@ Twikoo可以在json文件中添加：
 在emoji选项中添加配置项：
 ```js
  emoji: [
-    'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@0.8.1/Sticker-100',
+    'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/',
 ]
 ```

@@ -237,6 +237,6 @@ Twikoo can be added to the json file：
 Add a configuration item in the emoji option：
 ```js
  emoji: [
-    'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@0.8.1/Sticker-100',
+    'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/',
 ]
 ```
