@@ -131,7 +131,13 @@ Twikoo can be added to the json file：
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/电话.png\">", "text": "heo-电话" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/托腮.png\">", "text": "heo-托腮" },
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/裂开.png\">", "text": "heo-裂开" },
-        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽柠檬.png\">", "text": "heo-滑稽柠檬" }
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽柠檬.png\">", "text": "heo-滑稽柠檬" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/伞兵.png\">", "text": "heo-伞兵" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/胡子.png\">", "text": "heo-胡子" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/小偷.png\">", "text": "heo-小偷" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/智慧的眼神.png\">", "text": "heo-智慧的眼神" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗花.png\">", "text": "heo-菜狗花" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽奶茶.png\">", "text": "heo-滑稽奶茶" }
     ]
     },
 ```
@@ -230,6 +236,12 @@ Twikoo can be added to the json file：
     "heo-托腮": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/托腮.png",
     "heo-裂开": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/裂开.png",
     "heo-滑稽柠檬": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽柠檬.png",
+    "heo-伞兵": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/伞兵.png",
+    "heo-胡子": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/胡子.png",
+    "heo-小偷": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/小偷.png",
+    "heo-裂开": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/裂开.png",
+    "heo-智慧的眼神": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/智慧的眼神.png",
+    "heo-滑稽奶茶": "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽奶茶.png"
     }
 ```
 
