@@ -17,14 +17,15 @@
 
 如果你也使用了，欢迎提交pr。
 
-[张洪Heo](https://blog.zhheo.com/)
-[mrju](https://mrju.cn/)
-[OYの博客](https://oy6090.top/)
-[小康博客](https://www.antmoe.com/)
-[林羽凡](https://www.linyufan.com/)
-[2BROEAR](https://blog.2broear.com/)
-[FanHeart](https://hesifan.top/)
-[泰戈尔](https://www.iftiger.com/)
+- [x] [张洪Heo](https://blog.zhheo.com/)
+- [x] [mrju](https://mrju.cn/)
+- [x] [OYの博客](https://oy6090.top/)
+- [x] [小康博客](https://www.antmoe.com/)
+- [x] [林羽凡](https://www.linyufan.com/)
+- [x] [2BROEAR](https://blog.2broear.com/)
+- [x] [FanHeart](https://hesifan.top/)
+- [x] [泰戈尔](https://www.iftiger.com/)
+- [x] [Lete乐特](https://blog.lete114.top/)
 
 ## 快速上手
 
