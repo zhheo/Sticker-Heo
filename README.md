@@ -33,6 +33,7 @@ If you also use it, you are welcome to submit pr.
 - [x] [泰戈尔](https://www.iftiger.com/)
 - [x] [Lete乐特](https://blog.lete114.top/)
 - [x] [齐下无贰](https://weidows.github.io/)
+- [x] [森木志](https://imxxz.cn/) 
 
 
 ## Installation
