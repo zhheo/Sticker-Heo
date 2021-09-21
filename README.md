@@ -40,14 +40,14 @@ If you also use it, you are welcome to submit pr.
 
 ### Twikoo
 
-Twikoo可以在json文件中添加：[Preview json](/twikoo.json)
+Twikoo can be added to the json file：[Preview json](/twikoo.json)
 
 ### Valine
 
 [Preview json](/valine.json)
 
 ### Waline
-在emoji选项中添加配置项：
+Add a configuration item in the emoji option：
 ```js
  emoji: [
     'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/',
