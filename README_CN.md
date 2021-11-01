@@ -28,6 +28,7 @@
 - [x] [Lete乐特](https://blog.lete114.top/)
 - [x] [齐下无贰](https://weidows.github.io/)
 - [x] [森木志](https://imxxz.cn/)  
+- [x] [Gahotx](https://gahotx.cn/)
 
 ## 快速上手
 

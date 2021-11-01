@@ -34,6 +34,7 @@ If you also use it, you are welcome to submit pr.
 - [x] [Lete乐特](https://blog.lete114.top/)
 - [x] [齐下无贰](https://weidows.github.io/)
 - [x] [森木志](https://imxxz.cn/) 
+- [x] [Gahotx](https://gahotx.cn/)
 
 
 ## Installation
