@@ -397,6 +397,14 @@
       {
         "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/没招.png\">",
         "text": "heo-没招"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/放鞭炮.png\">",
+        "text": "heo-放鞭炮"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/财神红包.png\">",
+        "text": "heo-财神红包"
       }
     ]
   },
@@ -486,6 +494,18 @@
       {
         "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/恶魔恐惧.png\">",
         "text": "heo-恶魔恐惧"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/beluga.png\">",
+        "text": "heo-beluga"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/老虎意外.png\">",
+        "text": "heo-老虎意外"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/虎年进宝.png\">",
+        "text": "heo-虎年进宝"
       }
     ]
   }
