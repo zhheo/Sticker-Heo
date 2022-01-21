@@ -36,6 +36,7 @@ If you also use it, you are welcome to submit pr.
 - [x] [森木志](https://imxxz.cn/) 
 - [x] [Gahotx](https://gahotx.cn/)
 - [x] [FiveFire2021](https://fivefire2021.github.io/)
+- [x] [NikoのBlog](https://niko-karen.github.io)
 
 
 ## Installation
