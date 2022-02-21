@@ -30,6 +30,7 @@
 - [x] [森木志](https://imxxz.cn/)  
 - [x] [Gahotx](https://gahotx.cn/)
 - [x] [FiveFire2021](https://fivefire2021.github.io/)
+- [x] [NikoのBlog](https://niko-karen.github.io)
 
 ## 快速上手
 
