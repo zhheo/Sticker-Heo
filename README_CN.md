@@ -46,6 +46,6 @@ Twikoo可以在json文件中添加：[查看文件](/twikoo.json)
 在emoji选项中添加配置项：
 ```js
  emoji: [
-    'https://github-do.panbaidu.cn//https://raw.githubusercontent.com/zhheo/Sticker-Heo@latest/Sticker-100/',
+    'https://github-do.panbaidu.cn//https://raw.githubusercontent.com/zhheo/Sticker-Heo/main/Sticker-100/',
 ]
 ```
