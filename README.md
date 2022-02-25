@@ -53,6 +53,6 @@ Twikoo can be added to the json file：[Preview json](/twikoo.json)
 Add a configuration item in the emoji option：
 ```js
  emoji: [
-    'https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/',
+    'https://github-do.panbaidu.cn//https://raw.githubusercontent.com/zhheo/Sticker-Heo@latest/Sticker-100/',
 ]
 ```
