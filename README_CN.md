@@ -47,6 +47,6 @@ Twikoo可以在json文件中添加：[查看文件](/twikoo.json)
 在emoji选项中添加配置项：
 ```js
  emoji: [
-    'https://gcore.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/',
+    '@main/https://npm.elemecdn.com/sticker-heo/Sticker-100/',
 ]
 ```
