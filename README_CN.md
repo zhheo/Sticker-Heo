@@ -40,7 +40,7 @@
 [查看文件](/twikoo.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo/twikoo.json
+https://npm.elemecdn.com/sticker-heo@0.17.2/twikoo.json
 ```
 
 ### Valine
