@@ -31,20 +31,30 @@
 - [x] [NikoのBlog](https://niko-karen.github.io)
 - [x] [ImCaO's Blog](https://www.imcao.cn)
 
-👉[更多例子](https://github.com/zhheo/Sticker-Heo/issues/15)
+👉 [更多例子](https://github.com/zhheo/Sticker-Heo/issues/15)
 
 ## 快速上手
 
 ### Twikoo
 
-Twikoo可以在json文件中添加：[查看文件](/twikoo.json)
+[查看文件](/twikoo.json)
+
+```
+https://npm.elemecdn.com/sticker-heo/twikoo.json
+```
 
 ### Valine
 
 [查看文件](/valine.json)
 
+```
+https://npm.elemecdn.com/sticker-heo/valine.json
+```
+
 ### Waline
+
 在emoji选项中添加配置项：
+
 ```js
  emoji: [
     '@main/https://npm.elemecdn.com/sticker-heo/Sticker-100/',

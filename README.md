@@ -37,21 +37,31 @@ General basic facial stickers suitable for most websites and applications.
 - [x] [NikoのBlog](https://niko-karen.github.io)
 - [x] [ImCaO's Blog](https://www.imcao.cn)
 
-👉[More examples](https://github.com/zhheo/Sticker-Heo/issues/15)
+👉 [More examples](https://github.com/zhheo/Sticker-Heo/issues/15)
 
 
 ## Installation
 
 ### Twikoo
 
-Twikoo can be added to the json file：[Preview json](/twikoo.json)
+[Preview json](/twikoo.json)
+
+```
+https://npm.elemecdn.com/sticker-heo/twikoo.json
+```
 
 ### Valine
 
 [Preview json](/valine.json)
 
+```
+https://npm.elemecdn.com/sticker-heo/valine.json
+```
+
 ### Waline
+
 Add a configuration item in the emoji option：
+
 ```js
  emoji: [
     '@main/https://npm.elemecdn.com/sticker-heo/Sticker-100/',
