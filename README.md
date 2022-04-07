@@ -21,8 +21,6 @@ General basic facial stickers suitable for most websites and applications.
 
 ## Example
 
-If you also use it, you are welcome to submit pr.
-
 - [x] [张洪Heo](https://blog.zhheo.com/)
 - [x] [mrju](https://mrju.cn/)
 - [x] [OYの博客](https://oy6090.top/)
@@ -38,6 +36,8 @@ If you also use it, you are welcome to submit pr.
 - [x] [FiveFire2021](https://fivefire2021.github.io/)
 - [x] [NikoのBlog](https://niko-karen.github.io)
 - [x] [ImCaO's Blog](https://www.imcao.cn)
+
+👉[More examples](https://github.com/zhheo/Sticker-Heo/issues/15)
 
 
 ## Installation

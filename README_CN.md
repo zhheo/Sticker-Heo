@@ -15,8 +15,6 @@
 
 ## 使用该表情的站点
 
-如果你也使用了，欢迎提交pr。
-
 - [x] [张洪Heo](https://blog.zhheo.com/)
 - [x] [mrju](https://mrju.cn/)
 - [x] [OYの博客](https://oy6090.top/)
@@ -32,6 +30,8 @@
 - [x] [FiveFire2021](https://fivefire2021.github.io/)
 - [x] [NikoのBlog](https://niko-karen.github.io)
 - [x] [ImCaO's Blog](https://www.imcao.cn)
+
+👉[更多例子](https://github.com/zhheo/Sticker-Heo/issues/15)
 
 ## 快速上手
 
