@@ -57,6 +57,6 @@ https://npm.elemecdn.com/sticker-heo/valine.json
 
 ```js
  emoji: [
-    '@main/https://npm.elemecdn.com/sticker-heo/Sticker-100/',
+    'https://npm.elemecdn.com/sticker-heo/Sticker-100/',
 ]
 ```

@@ -64,6 +64,6 @@ Add a configuration item in the emoji option：
 
 ```js
  emoji: [
-    '@main/https://npm.elemecdn.com/sticker-heo/Sticker-100/',
+    'https://npm.elemecdn.com/sticker-heo/Sticker-100/',
 ]
 ```
