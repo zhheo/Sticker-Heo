@@ -55,7 +55,7 @@ https://npm.elemecdn.com/sticker-heo@0.17.2/twikoo.json
 [Preview json](/valine.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo/valine.json
+https://npm.elemecdn.com/sticker-heo@0.17.2/valine.json
 ```
 
 ### Waline
@@ -64,6 +64,6 @@ Add a configuration item in the emoji option：
 
 ```js
  emoji: [
-    'https://npm.elemecdn.com/sticker-heo/Sticker-100/',
+    'https://npm.elemecdn.com/sticker-heo@0.17.2/Sticker-100/',
 ]
 ```
