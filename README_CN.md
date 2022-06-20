@@ -40,7 +40,7 @@
 [查看文件](/twikoo.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@0.18.0/twikoo.json
+https://npm.elemecdn.com/sticker-heo@0.19.0/twikoo.json
 ```
 
 ### Valine
@@ -48,7 +48,7 @@ https://npm.elemecdn.com/sticker-heo@0.18.0/twikoo.json
 [查看文件](/valine.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@0.18.0/valine.json
+https://npm.elemecdn.com/sticker-heo@0.19.0/valine.json
 ```
 
 ### Waline
@@ -57,6 +57,6 @@ https://npm.elemecdn.com/sticker-heo@0.18.0/valine.json
 
 ```js
  emoji: [
-    'https://npm.elemecdn.com/sticker-heo@0.18.0/Sticker-100/',
+    'https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/',
 ]
 ```
