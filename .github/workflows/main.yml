@@ -1,0 +1,33 @@
+name: Node.js Package
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16.x]
+    steps:
+      # from: https://github.com/actions/checkout
+      - name: 1. 检查master分支
+        uses: actions/checkout@master
+
+      # from: https://github.com/actions/setup-node
+      - name: 2. 设置Node.js
+        uses: actions/setup-node@master
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: 3. 生成文件
+        run: |
+          export TZ='Asia/Shanghai'
+          node index.js
+
+      - name: 4. 发布
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
