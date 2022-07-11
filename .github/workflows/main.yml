@@ -1,9 +1,9 @@
-name: Node.js Package
+name: NPM Publish
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   publish-npm:
@@ -12,13 +12,11 @@ jobs:
       matrix:
         node-version: [16.x]
     steps:
-      # from: https://github.com/actions/checkout
       - name: 1. 检查master分支
-        uses: actions/checkout@master
+        uses: actions/checkout
 
-      # from: https://github.com/actions/setup-node
       - name: 2. 设置Node.js
-        uses: actions/setup-node@master
+        uses: actions/setup-node
         with:
           node-version: ${{ matrix.node-version }}
 
