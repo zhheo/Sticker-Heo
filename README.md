@@ -23,7 +23,7 @@ General basic facial stickers suitable for most websites and applications.
 
 ## Preview
 
-[emotion]（https://emotion.xiaokang.me/#/emotion/Heo-100）
+[emotion](https://emotion.xiaokang.me/#/emotion/Heo-100)
 
 ## Example
 
