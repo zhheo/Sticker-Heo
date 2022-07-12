@@ -47,7 +47,7 @@ General basic facial stickers suitable for most websites and applications.
 [Preview json](/twikoo.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@0.19.0/twikoo.json
+https://npm.elemecdn.com/sticker-heo@0.19.1/twikoo.json
 ```
 
 ### Valine
@@ -55,7 +55,7 @@ https://npm.elemecdn.com/sticker-heo@0.19.0/twikoo.json
 [Preview json](/valine.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@0.19.0/valine.json
+https://npm.elemecdn.com/sticker-heo@0.19.1/valine.json
 ```
 
 ### Waline
@@ -64,6 +64,14 @@ Add a configuration item in the emoji option：
 
 ```js
  emoji: [
-    'https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/',
+    'https://npm.elemecdn.com/sticker-heo@0.19.1/Sticker-100/',
 ]
+```
+
+### Artalk
+
+[Preview json](/artalk.json)
+
+```
+https://npm.elemecdn.com/sticker-heo@0.19.1/artalk.json
 ```
