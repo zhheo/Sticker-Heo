@@ -17,9 +17,7 @@ General basic facial stickers suitable for most websites and applications.
 
 ## Presentation
 
-![](/img/v1/%E8%A1%A8%E6%83%85%E9%A2%84%E8%A7%88.png)
-![](/img/v1/%E6%8E%88%E6%9D%83%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%AE%9A%E4%BB%B7.png)
-![](/img/v1/%E6%9B%B4%E6%96%B0%E9%A2%91%E7%8E%87.png)
+![](/img/v1/%E8%A1%A8%E6%83%85%E9%A2%84%E8%A7%88.png)![](/img/v1/%E6%8E%88%E6%9D%83%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%AE%9A%E4%BB%B7.png)![](/img/v1/%E6%9B%B4%E6%96%B0%E9%A2%91%E7%8E%87.png)
 
 ## Preview
 
