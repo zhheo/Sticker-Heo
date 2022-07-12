@@ -1,6 +1,9 @@
 const fs = require('fs')
 const imagePath = './Sticker-100'
-const baseUrl = 'https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100'
+const pjson = require('./package.json')
+const version = pjson.version
+const baseUrl = 'https://npm.elemecdn.com/sticker-heo@'+version+'/Sticker-100'
+
 /**
  * 获取文件名
  * @param {string} name
@@ -8,6 +11,7 @@ const baseUrl = 'https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100'
 function getName(name) {
   return name.split('.')[0]
 }
+
 /**
  * 生成twikoo格式json文件
  * @param {Array<string>} nameList
@@ -60,10 +64,35 @@ function artalk(nameList) {
   return result
 }
 
-const fileNameList = fs.readdirSync(imagePath)
+/**
+ * 生成waline格式json文件
+ * @param {Array<string>} nameList
+ */
+ function waline(nameList) {
+  const result = {
+    icon: '亲亲',
+    items: []
+  }
+  nameList.forEach((item) => {
+    result.items.push(`${getName(item)}`)
+  })
+  return result
+}
+
+const fileNameListAll = fs.readdirSync(imagePath)
+// 筛选png
+const path = require('path');
+const EXTENSION = '.png';
+
+const fileNameList = fileNameListAll.filter(file => {
+  return path.extname(file).toLowerCase() === EXTENSION;
+});
+
 const twikooObject = twikoo(fileNameList)
 fs.writeFileSync('./twikoo.json', JSON.stringify(twikooObject))
 const valineObject = valine(fileNameList)
 fs.writeFileSync('./valine.json', JSON.stringify(valineObject))
 const artalkObject = artalk(fileNameList)
 fs.writeFileSync('./artalk.json', JSON.stringify(artalkObject))
+const walineObject = waline(fileNameList)
+fs.writeFileSync('./Sticker-100/info.json', JSON.stringify(walineObject))
