@@ -1,6 +1,6 @@
 # Sticker-Heo
 
-![](/img/banner.png)
+![](/img/v1/%E5%B0%81%E9%9D%A2.png)
 
 适合大多数网站与应用的通用基础表情
 
@@ -9,27 +9,20 @@
 
 > 该表情仅非商业博客免授权使用，其余方式需授权书授权，请须知。
 
+## 表情介绍
+
+![](/img/v1/%E8%A1%A8%E6%83%85%E9%A2%84%E8%A7%88.png)
+![](/img/v1/%E6%8E%88%E6%9D%83%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%AE%9A%E4%BB%B7.png)
+![](/img/v1/%E6%9B%B4%E6%96%B0%E9%A2%91%E7%8E%87.png)
+
 ## 表情预览
 
-![](/img/all-aticker-cn.png)
+[emotion]（https://emotion.xiaokang.me/#/emotion/Heo-100）
 
 ## 使用该表情的站点
 
 - [x] [张洪Heo](https://blog.zhheo.com/)
-- [x] [mrju](https://mrju.cn/)
-- [x] [OYの博客](https://oy6090.top/)
 - [x] [小康博客](https://www.antmoe.com/)
-- [x] [林羽凡](https://www.linyufan.com/)
-- [x] [2BROEAR](https://blog.2broear.com/)
-- [x] [FanHeart](https://hesifan.top/)
-- [x] [泰戈尔](https://www.iftiger.com/)
-- [x] [Lete乐特](https://blog.lete114.top/)
-- [x] [齐下无贰](https://weidows.github.io/)
-- [x] [森木志](https://imxxz.cn/)  
-- [x] [Gahotx](https://gahotx.cn/)
-- [x] [FiveFire2021](https://fivefire2021.github.io/)
-- [x] [NikoのBlog](https://niko-karen.github.io)
-- [x] [ImCaO's Blog](https://www.imcao.cn)
 
 👉 [更多例子](https://github.com/zhheo/Sticker-Heo/issues/15)
 
@@ -40,7 +33,7 @@
 [查看文件](/twikoo.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@0.19.0/twikoo.json
+https://npm.elemecdn.com/sticker-heo@2022.7.0/twikoo.json
 ```
 
 ### Valine
@@ -48,7 +41,7 @@ https://npm.elemecdn.com/sticker-heo@0.19.0/twikoo.json
 [查看文件](/valine.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@0.19.0/valine.json
+https://npm.elemecdn.com/sticker-heo@2022.7.0/valine.json
 ```
 
 ### Waline
@@ -56,7 +49,15 @@ https://npm.elemecdn.com/sticker-heo@0.19.0/valine.json
 在emoji选项中添加配置项：
 
 ```js
- emoji: [
-    'https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/',
+emoji: [
+    'https://npm.elemecdn.com/sticker-heo@2022.7.0/Sticker-100/',
 ]
+```
+
+### Artalk
+
+[查看文件](/artalk.json)
+
+```
+https://npm.elemecdn.com/sticker-heo@2022.7.0/artalk.json
 ```
