@@ -22,9 +22,14 @@
 ## 使用该表情的站点
 
 - [x] [张洪Heo](https://blog.zhheo.com/)
-- [x] [小康博客](https://www.antmoe.com/)
 
 👉 [更多例子](https://github.com/zhheo/Sticker-Heo/issues/15)
+
+## 巨大贡献
+
+[小康（json自动化）](https://www.antmoe.com/)
+
+[Tianli（CDN）](https://tianli-blog.club/)
 
 ## 快速上手
 
@@ -33,7 +38,7 @@
 [查看文件](/twikoo.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@2022.7.0/twikoo.json
+https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/twikoo.json
 ```
 
 ### Valine
@@ -41,7 +46,7 @@ https://npm.elemecdn.com/sticker-heo@2022.7.0/twikoo.json
 [查看文件](/valine.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@2022.7.0/valine.json
+https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/valine.json
 ```
 
 ### Waline
@@ -50,7 +55,7 @@ https://npm.elemecdn.com/sticker-heo@2022.7.0/valine.json
 
 ```js
 emoji: [
-    'https://npm.elemecdn.com/sticker-heo@2022.7.0/Sticker-100/',
+    'https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/Sticker-100/',
 ]
 ```
 
@@ -59,5 +64,5 @@ emoji: [
 [查看文件](/artalk.json)
 
 ```
-https://npm.elemecdn.com/sticker-heo@2022.7.0/artalk.json
+https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/artalk.json
 ```
