@@ -33,7 +33,7 @@ General basic facial stickers suitable for most websites and applications.
 
 ## Great contribution
 
-[小康（json creater）](https://www.antmoe.com/)
+[小康（Json creater）](https://www.antmoe.com/)
 
 [Tianli（CDN）](https://tianli-blog.club/)
 
