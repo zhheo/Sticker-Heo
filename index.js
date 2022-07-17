@@ -2,7 +2,7 @@ const fs = require('fs')
 const imagePath = './Sticker-100'
 const pjson = require('./package.json')
 const version = pjson.version
-const baseUrl = 'https://cdn1.tianli0.top/npm/sticker-heo@'+version+'/Sticker-100'
+const baseUrl = 'https://adn.arcitcgn.cn/npm/sticker-heo@'+version+'/Sticker-100'
 
 /**
  * 获取文件名

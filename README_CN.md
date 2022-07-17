@@ -29,7 +29,7 @@
 
 [小康（json自动化）](https://www.antmoe.com/)
 
-[Tianli（CDN）](https://tianli-blog.club/)
+[arcitcgn（CDN）](https://arcitcgn.cn/171.html)
 
 ## 快速上手
 
@@ -38,7 +38,7 @@
 [查看文件](/twikoo.json)
 
 ```
-https://cdn1.tianli0.top/npm/sticker-heo@2022.7.2/twikoo.json
+https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/twikoo.json
 ```
 
 ### Valine
@@ -46,7 +46,7 @@ https://cdn1.tianli0.top/npm/sticker-heo@2022.7.2/twikoo.json
 [查看文件](/valine.json)
 
 ```
-https://cdn1.tianli0.top/npm/sticker-heo@2022.7.2/valine.json
+https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/valine.json
 ```
 
 ### Waline
@@ -55,7 +55,7 @@ https://cdn1.tianli0.top/npm/sticker-heo@2022.7.2/valine.json
 
 ```js
 emoji: [
-    'https://cdn1.tianli0.top/npm/sticker-heo@2022.7.2/Sticker-100/',
+    'https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/Sticker-100/',
 ]
 ```
 
@@ -64,5 +64,5 @@ emoji: [
 [查看文件](/artalk.json)
 
 ```
-https://cdn1.tianli0.top/npm/sticker-heo@2022.7.2/artalk.json
+https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/artalk.json
 ```

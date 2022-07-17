@@ -35,7 +35,7 @@ General basic facial stickers suitable for most websites and applications.
 
 [小康（Json creater）](https://www.antmoe.com/)
 
-[Tianli（CDN）](https://tianli-blog.club/)
+[arcitcgn（CDN）](https://arcitcgn.cn/171.html)
 
 ## Installation
 
@@ -44,7 +44,7 @@ General basic facial stickers suitable for most websites and applications.
 [Preview json](/twikoo.json)
 
 ```
-https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/twikoo.json
+https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.0/twikoo.json
 ```
 
 ### Valine
@@ -52,7 +52,7 @@ https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/twikoo.json
 [Preview json](/valine.json)
 
 ```
-https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/valine.json
+https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.0/valine.json
 ```
 
 ### Waline
@@ -61,7 +61,7 @@ Add a configuration item in the emoji option：
 
 ```js
 emoji: [
-    'https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/Sticker-100/',
+    'https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.0/Sticker-100/',
 ]
 ```
 
@@ -70,5 +70,5 @@ emoji: [
 [Preview json](/artalk.json)
 
 ```
-https://cdn1.tianli0.top/npm/sticker-heo@2022.7.0/artalk.json
+https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.0/artalk.json
 ```
