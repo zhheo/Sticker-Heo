@@ -35,8 +35,6 @@ General basic facial stickers suitable for most websites and applications.
 
 [小康（Json creater）](https://www.antmoe.com/)
 
-[arcitcgn（CDN）](https://arcitcgn.cn/171.html)
-
 ## Installation
 
 ### Twikoo
@@ -44,7 +42,7 @@ General basic facial stickers suitable for most websites and applications.
 [Preview json](/twikoo.json)
 
 ```
-https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/twikoo.json
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/twikoo.json
 ```
 
 ### Valine
@@ -52,7 +50,7 @@ https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/twikoo.json
 [Preview json](/valine.json)
 
 ```
-https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/valine.json
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/valine.json
 ```
 
 ### Waline
@@ -61,7 +59,7 @@ Add a configuration item in the emoji option：
 
 ```js
 emoji: [
-    'https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/Sticker-100/',
+    'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/Sticker-100/',
 ]
 ```
 
@@ -70,5 +68,5 @@ emoji: [
 [Preview json](/artalk.json)
 
 ```
-https://adn.arcitcgn.cn/npm/sticker-heo@2022.7.3/artalk.json
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/artalk.json
 ```
