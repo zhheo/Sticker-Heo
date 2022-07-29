@@ -70,6 +70,7 @@ function artalk(nameList) {
  */
  function waline(nameList) {
   const result = {
+    type: 'png',
     icon: '亲亲',
     items: []
   }
