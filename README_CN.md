@@ -36,7 +36,7 @@
 [查看文件](/twikoo.json)
 
 ```
-https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/twikoo.json
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/twikoo.json
 ```
 
 ### Valine
@@ -44,7 +44,7 @@ https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/twikoo.json
 [查看文件](/valine.json)
 
 ```
-https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/valine.json
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/valine.json
 ```
 
 ### Waline
@@ -53,7 +53,7 @@ https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/valine.json
 
 ```js
 emoji: [
-    'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/Sticker-100/',
+    'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/',
 ]
 ```
 
@@ -62,5 +62,5 @@ emoji: [
 [查看文件](/artalk.json)
 
 ```
-https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.3/artalk.json
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/artalk.json
 ```
